@@ -1,0 +1,8 @@
+sentence-transformers
+transformers
+numpy
+psycopg[binary]
+pgvector
+python-dotenv
+pypdf
+pytest
